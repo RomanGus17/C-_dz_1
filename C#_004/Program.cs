@@ -6,7 +6,7 @@
 // {
 //     if (i % 2 == 0) 
 //     {
-//         Console.Write(i + " ");
+//         Console.Write(i + ", ");
 //     }
 // }
 // Console.WriteLine();
@@ -18,7 +18,7 @@ for (int i = a; i <= n; i++)
 {
     if (i % 2 == 0) 
     {
-        Console.Write(i + " ");
+        Console.Write(i + ", ");
     }
 }
 Console.WriteLine();
